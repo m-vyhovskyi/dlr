@@ -1,0 +1,6 @@
+C:\Repositories\DSL\Expressions\bin\Debug\Expressions.exe.config
+C:\Repositories\DSL\Expressions\bin\Debug\Expressions.exe
+C:\Repositories\DSL\Expressions\bin\Debug\Expressions.pdb
+C:\Repositories\DSL\Expressions\obj\Debug\Expressions.csprojResolveAssemblyReference.cache
+C:\Repositories\DSL\Expressions\obj\Debug\Expressions.exe
+C:\Repositories\DSL\Expressions\obj\Debug\Expressions.pdb
